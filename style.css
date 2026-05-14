@@ -17,3 +17,23 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
+.logo img {
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.lista-header {
+    display: flex;
+    gap: 20px;
+}
+
+.lista-header a {
+    text-decoration: none;
+    color: #f3f3f3;
+}
+
+main {
+    background-color: #c1c1c1;
+    display: flex;
+}
